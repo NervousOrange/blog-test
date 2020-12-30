@@ -3,6 +3,8 @@ testMerge1
 2
 3
 also change 4
-and change 5444:
+modify 333333
+modify 4444
+5
 6
 7
